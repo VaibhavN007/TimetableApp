@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="deptItems">
+        <item>CSE</item>
+        <item>ECE</item>
+    </string-array>
+    <string-array name="yearOfStudyItems">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+</resources>
